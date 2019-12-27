@@ -1,0 +1,13 @@
+C:\Users\Metehan\Desktop\mars-rover-problem-master\mars-rover-problem-master\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe.config
+C:\Users\Metehan\Desktop\mars-rover-problem-master\mars-rover-problem-master\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe
+C:\Users\Metehan\Desktop\mars-rover-problem-master\mars-rover-problem-master\MarsRoverProblem\bin\Debug\MarsRoverProblem.pdb
+C:\Users\Metehan\Desktop\mars-rover-problem-master\mars-rover-problem-master\MarsRoverProblem\obj\Debug\MarsRoverProblem.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\mars-rover-problem-master\mars-rover-problem-master\MarsRoverProblem\obj\Debug\MarsRoverProblem.exe
+C:\Users\Metehan\Desktop\mars-rover-problem-master\mars-rover-problem-master\MarsRoverProblem\obj\Debug\MarsRoverProblem.pdb
+E:\hepsiburada\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe.config
+E:\hepsiburada\MarsRoverProblem\bin\Debug\MarsRoverProblem.exe
+E:\hepsiburada\MarsRoverProblem\bin\Debug\MarsRoverProblem.pdb
+E:\hepsiburada\MarsRoverProblem\obj\Debug\MarsRoverProblem.csprojAssemblyReference.cache
+E:\hepsiburada\MarsRoverProblem\obj\Debug\MarsRoverProblem.csproj.CoreCompileInputs.cache
+E:\hepsiburada\MarsRoverProblem\obj\Debug\MarsRoverProblem.exe
+E:\hepsiburada\MarsRoverProblem\obj\Debug\MarsRoverProblem.pdb
